@@ -60,7 +60,7 @@
       top: 0;
       width: 67rem;
       height: 80.8rem;
-      background-image: url("images/pages/main/hero/bg.svg");
+      background-image: url("/images/pages/main/hero/bg.svg");
     }
   }
   .main-hero__wrapper {
