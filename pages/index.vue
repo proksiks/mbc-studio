@@ -24,21 +24,21 @@
           <div class="main-hero__picture">
             <img
               class="main-hero__image main-hero__image_1"
-              src="/images/pages/main/hero/money.png"
+              src="images/pages/main/hero/money.png"
               width="354"
               height="373"
               alt="Пачка денег"
             />
             <img
               class="main-hero__image main-hero__image_2"
-              src="/images/pages/main/hero/paper.png"
+              src="images/pages/main/hero/paper.png"
               width="545"
               height="546"
               alt="Лист бумаги"
             />
             <img
               class="main-hero__image main-hero__image_3"
-              src="/images/pages/main/hero/prize.png"
+              src="images/pages/main/hero/prize.png"
               width="373"
               height="388"
               alt="Приз"
