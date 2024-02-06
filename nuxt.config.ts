@@ -11,5 +11,4 @@ export default defineNuxtConfig({
     },
   },
   css: ["normalize.css", "~/assets/scss/main.scss"],
-  modules: ["@nuxt/image"],
 });
