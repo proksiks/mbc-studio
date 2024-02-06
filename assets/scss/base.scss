@@ -1,0 +1,42 @@
+html {
+  box-sizing: border-box;
+  font-size: 10px;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.25;
+  font-family: var(--font-family-montserrat);
+  background: var(--color-main-background);
+  color: var(--color-white);
+}
+
+.container {
+  max-width: 157.8rem;
+  padding-left: 1.6rem;
+  padding-right: 1.6rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+  outline: 0;
+  outline-offset: 0;
+}
