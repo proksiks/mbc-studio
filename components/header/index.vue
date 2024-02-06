@@ -3,7 +3,7 @@
     <NuxtLink class="header__logo" to="/">
       <img
         class="header__logo-img"
-        src="images/shared/logo.svg"
+        src="./images/shared/logo.svg"
         width="80"
         height="63"
         alt="Логотип компании"
