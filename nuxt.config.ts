@@ -2,6 +2,7 @@ export default defineNuxtConfig({
   devtools: { enabled: false },
   ssr: true,
   app: {
+    baseURL: '/mbc-studio/',
     pageTransition: { name: "page", mode: "out-in" },
     head: {
       htmlAttrs: { lang: "ru" },
